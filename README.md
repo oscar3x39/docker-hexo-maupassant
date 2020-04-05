@@ -3,7 +3,6 @@
 $ git clone https://github.com/oscar3x39/docker-hexo-maupassant
 $ cd docker-hexo-maupassant
 $ docker-compose up -d
-$ docker-compose down
 ```
 
 ## Configuration
